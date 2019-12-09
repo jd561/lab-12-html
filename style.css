@@ -1,0 +1,53 @@
+/* */
+/* LAB 12 PART 2: CSS */
+
+/* change your largest header to brown */
+h1 {
+color :#b99346;
+}
+
+ /* change paragraphs so that they are blue */
+p {
+    color: #0000FF;
+}
+
+/* change background color on all header h1 and h2 so that they're black */
+h1 {
+background-color: #000000;
+}
+h2 {
+background-color: #000000;
+}
+
+/* use font-family on body to change all of your text to sans-serif */
+* {
+    font-family: sans-serif;
+}
+
+/* use font-size on all paragraph text to make it 14px */
+p {
+    font-size: 14px;
+}
+
+/* use text-decoration on your second largest header h2 try underline */
+h2 {
+    text-decoration: underline;
+}
+
+/* use text-decoration on all paragraphs ... try line-through */
+p {
+    text-decoration: line-through;
+}
+/* use text-transform on your largest header h1 to change to uppercase */
+h1 {
+    text-transform: uppercase;
+}
+
+/* add 20px margin to your largest header h1 */
+h1 {
+    margin: 20px;
+}
+
+/* add 40px padding to your largest header h1 */
+h1 {
+    padding: 40px;
